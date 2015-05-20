@@ -4,7 +4,7 @@
 public class FirstCommonProject{
 
 	static void volodya (){
-		System.out.println("Hi Volodya");
+		System.out.println("Volodya in Academy");
 	} 
 	
 	public static void main(String...args){
